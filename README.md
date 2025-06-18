@@ -1,6 +1,6 @@
 # ELGA-GMamba: An Efficient Local-to-Global Awareness Graph Mamba for Object Recognition With Event-Based Cameras
 
-The code will be released after the paper is published.
+The complete code will be released after the paper is published.
 
 ## Overview
 
@@ -19,7 +19,7 @@ All the codes are tested in the following environment:
 
 ### Dataset Preparation
 
-All datasets should be downloaded and placed within the `dataset` directory, adhering to the folder naming rules and structure specified for the `N-Caltech101` and `DvsGesture` datasets as provided in the project.
+All datasets should be downloaded and placed within the `dataset` directory, adhering to the folder naming rules and structure specified for the examples (`N-Caltech101` and `DvsGesture` datasets) as provided in the project.
 
 ## Quick Start
 
